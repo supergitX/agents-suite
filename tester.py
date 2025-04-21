@@ -1,7 +1,7 @@
 import requests
 import os
 
-# Groq API Configuration
+# Groq API Configuration #
 # Load API key from environment variables (GitHub) or .env file (local)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
