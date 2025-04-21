@@ -1,7 +1,7 @@
 import os
 import google.generativeai as genai
 
-# 🔑 Load your Gemini API key (recommended to use environment variable)
+# 🔑 Load your Gemini API key (recommended to use environment variable) #
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # ⛔ Files and folders to skip during documentation generation
