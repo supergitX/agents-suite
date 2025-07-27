@@ -1,9 +1,9 @@
 ## supergit: AI-Powered Git Workflow Enhancement
 
 supergit is a suite of AI agents designed to seamlessly integrate into any codebase and enhance the capabilities of your Git workflow. By harnessing the power of AI agents in software development and production, supergit aims to transform the way teams work with Git.
+<img width="1572" height="828" alt="image" src="https://github.com/user-attachments/assets/94403da4-c62e-4bb2-bcfa-8b23b43b0e4d" />
 
-### Key Features
-
+### <img width="1642" height="909" alt="image" src="https://github.com/user-attachments/assets/5f8e6d08-6ecf-4806-9ce8-875f25d57e5a" />
 supergit offers several key features to streamline your development process:
 
 * **Automated Code Generation and Error Fixing:** Automates the creation of code and fixes errors.
@@ -11,7 +11,8 @@ supergit offers several key features to streamline your development process:
 * **Easy Testing with Auto-Generated Test Cases:** Facilitates testing by automatically generating test cases.
 * **Detailed Project Documentation:** Creates comprehensive documentation for your project.
 
-### Strengths of supergit
+
+### <img width="1347" height="790" alt="image" src="https://github.com/user-attachments/assets/bc00cf35-3cc5-4fd1-a93d-930714e7d380" />
 
 The core concept of supergit relies on the application of large language models (LLMs) to understand and debug code, and to interact with available tools.
 
@@ -22,7 +23,8 @@ The core concept of supergit relies on the application of large language models 
 * **Customizability:** Agent behavior can be customized to client requirements.
 * **Privacy and Security:** Adaptable to work with local LLM deployments to ensure organizational privacy and security.
 
-### Agents Suite
+### <img width="1291" height="790" alt="image" src="https://github.com/user-attachments/assets/ed8cf6ae-92ca-435c-92b4-e4b47ecdb8c3" />
+
 
 supergit includes a suite of specialized AI agents:
 
@@ -31,6 +33,9 @@ supergit includes a suite of specialized AI agents:
 * **Reviewer:** The code reviewer agent reviews given code, makes corrections, and pushes them back to the repository branch.
 * **Critique:** The code critique agent examines all code in a specified path and provides output with comments indicating lines containing errors.
 * **Doc-Keeper:** This agent automatically creates documentation and runbooks for the entire repository when triggered.
+
+### <img width="1266" height="736" alt="image" src="https://github.com/user-attachments/assets/c351e377-3da7-4cce-b2b8-e6cf215e0837" />
+
 
 ### Workflow with `workflow.yaml` (Conceptual)
 
@@ -48,4 +53,4 @@ While a specific `workflow.yaml` file is not provided in the document, based on 
 
 This modular design, combined with GitHub Actions, allows users to create customized automation pipelines to fit their specific development needs.
 
-For more details, visit the [supergitX/agents-suite GitHub repository](https://github.com/supergitX/agents-suite).
+For more details, visit the demo setup repositories at [supergitX GitHub repository](https://github.com/supergitX).
